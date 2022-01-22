@@ -23,3 +23,13 @@ class LinqExercise5
                     }  
     }
 }
+
+
+// outputt
+LINQ : Display the characters and frequency of character from giving string : 
+Input the string : successs
+The frequency of the characters are :
+Character s: 3 times
+Character u: 1 times
+Character c: 2 times
+Character e: 1 times
